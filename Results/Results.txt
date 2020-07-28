@@ -1,0 +1,15 @@
+processed/triggered:
+
+	 processed/triggered grand mean:  0.8586071838789233
+	 processed/triggered grand sdt: 0.17787120375086574
+
+triggered/total:
+
+	 triggered/total grand mean:  0.9348987365291712
+	 triggered/total grand sdt: 0.07615908262137955
+
+---------------------------------------------------------------------
+trigger_to_fixation_times:
+
+	 trigger_to_fixation_times grand mean:  16420.476954074515
+	 trigger_to_fixation_times grand sdt: 7766.208177670163
